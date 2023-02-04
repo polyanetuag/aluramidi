@@ -1,6 +1,17 @@
-function playSound() {
-    document.querySelector('#som_tecla_pom').play()
+function playSound(idSound) {
+    document.querySelector(idSound).play()
 }
 
-document.querySelector('.tecla_pom').onclick=playSound
+const listaDeTeclas = document.querySelectorAll('.tecla')
+
+let contador = 0
+
+while(contador < listaDeTeclas.length) {
+    listaDeTeclas[contador].onclick = function() {
+        playSound(`#${this.id}`)
+    }
+    contador++
+
+}
+
 

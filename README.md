@@ -1,5 +1,5 @@
 <div align="center" justify-content="space-between">
-  <img width= '80' src="./public/favicon.svg" /> 
+  <img width= '50' src="images/bateria.png" /> 
   <h1>Alura Midi</h1>
 </div>
 

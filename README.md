@@ -26,10 +26,9 @@ O objetivo foi para praticar o uso de condições e lógicas de programação.
 
 ## 🚀 Tecnologias utilizadas
 
-- ReactJS
-- TypeScript
-- Sass
-- Css Modules
+- Javascript
+- Css
+- Html
 
 ## ⏱️ Como executar
 

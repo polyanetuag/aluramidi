@@ -13,7 +13,7 @@
 </h3>
 
 <div align="center">
-    <img width= '800' src="images/interface.gif" /> 
+    <img width= '500' src="images/interface.gif" /> 
 </div>
 
 ## 📚 Sobre

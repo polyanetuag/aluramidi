@@ -21,7 +21,7 @@
 O projeto em questão é um tocador de som que foi desenvolvido com javascript.
 
 
-O objetivo foi para praticar o uso de condições e lógicas de programação.
+O objetivo foi para praticar o uso de condições e lógicas de programação usando o javascript.
 
 
 ## 🚀 Tecnologias utilizadas

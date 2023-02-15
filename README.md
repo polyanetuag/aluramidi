@@ -29,7 +29,7 @@ O objetivo foi para praticar o uso de condições e lógicas de programação us
 - Javascript
 - Css
 - Html
-- DevTools do navegador
+- DevTools do navegador (para práticas e testes)
 
 ## ⏱️ Como executar
 
@@ -40,7 +40,7 @@ $ git clone https://github.com/polyanetuag/aluramidi.git
 # Entrar na pasta  
 $ cd aluramidi
 
-# Nesse projeto foi utilizado o live-server
+obs: Nesse projeto foi utilizado o live-server
 
 
 ```

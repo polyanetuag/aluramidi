@@ -40,7 +40,7 @@ $ git clone https://github.com/polyanetuag/aluramidi.git
 # Entrar na pasta  
 $ cd aluramidi
 
-obs: Nesse projeto foi utilizado o live-server
+obs: Para rodar o projeto, foi utilizado o live-server
 
 
 ```

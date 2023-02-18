@@ -39,7 +39,6 @@ $ git clone https://github.com/polyanetuag/aluramidi.git
 
 # Entrar na pasta  
 $ cd aluramidi
-
 ```
 Obs: Para rodar o projeto, foi utilizada a extensão live-server do VsCode, mas pode ser utilizado qualquer outra extensão ou servidor local.
 ## 📝 Licença

@@ -28,7 +28,6 @@ O objetivo foi a prática das condições e lógicas de programação usando o j
 
 - Javascript
 - Css
-- Html
 - DevTools do navegador (para práticas e testes)
 
 ## ⏱️ Como executar

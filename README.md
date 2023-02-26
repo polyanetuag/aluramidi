@@ -18,7 +18,7 @@
 
 ## 📚 Sobre
 
-O projeto em questão é um tocador de som que foi desenvolvido com javascript.
+O projeto em questão é um tocador de som que foi desenvolvido com javascript. Possui também navegação por teclado, visando a acessibilidade.
 
 
 O objetivo foi a prática das condições e lógicas de programação usando o javascript.

@@ -23,10 +23,6 @@ O projeto em questão é um tocador de som que foi desenvolvido com javascript. 
 
 Além da funcionalidade pelo mouse, possui também navegação por teclado, visando a acessibilidade do usuário.
 
-
-
-
-
 ## 🚀 Tecnologias utilizadas
 
 - Javascript

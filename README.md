@@ -1,7 +1,7 @@
 <div align="center" justify-content="space-between">
   <img width= '80' src="images/bateria.png" /> 
-  <h1>Alura Midi</h1>
-  <h2>Tocador de som</h2>
+  <h1>Alura Midi <br/> 
+  Tocador de som</h1>
 </div>
 
 <h3 align="center">  

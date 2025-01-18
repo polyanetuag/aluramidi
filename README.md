@@ -25,7 +25,7 @@ Além da funcionalidade pelo mouse, possui também navegação por teclado, visa
 
 ## 🚀 Tecnologias utilizadas
 
-- Javascript
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - Css
 - DevTools do navegador (para práticas e testes)
 

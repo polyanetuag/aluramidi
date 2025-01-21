@@ -27,7 +27,7 @@ Além da funcionalidade pelo mouse, possui também navegação por teclado, visa
 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- DevTools do navegador (para práticas e testes)
+- [DevTools](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/What_are_browser_developer_tools) do navegador (para práticas e testes)
 
 ## ⏱️ Como executar
 

@@ -19,7 +19,7 @@
 
 ## 📚 Sobre
 
-O projeto em questão é um **tocador de som** que foi desenvolvido com javascript puro. O objetivo foi a prática das condições e lógicas de programação usando somente o javascript.
+O projeto em questão é um **tocador de som** que foi desenvolvido com javascript puro. O objetivo foi a prática das condições e lógicas de programação usando somente essa linguagem.
 
 Além da funcionalidade pelo mouse, possui também a navegação via teclado, para a acessibilidade e usabilidade do usuário.
 

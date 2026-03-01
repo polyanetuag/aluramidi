@@ -41,7 +41,7 @@ $ cd aluramidi
 *Obs*: Para rodar o projeto, foi utilizada a extensão live-server do VsCode, mas pode ser utilizado qualquer outra extensão ou servidor local.
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT.
+Esse projeto está sob a licença [MIT](https://opensource.org/license/mit).
 
 ---
 Desenvolvido com 💜 por Polyane Tuag
